@@ -12,6 +12,7 @@
 * [🔱Drop donjons](zone-primordiale/drop-donjons.md)
 * [🌌Donjon Rebirth](le-serveur/donjon-rebirth.md)
 * [🎮Les Coffres de Sort](le-serveur/les-coffres-de-sort.md)
+* [📥Contenu des Coffres de Sort](le-serveur/contenu-des-coffres-de-sort.md)
 
 ## Zone Primordiale
 
