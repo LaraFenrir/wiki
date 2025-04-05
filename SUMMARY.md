@@ -4,6 +4,11 @@
 
 * [💸Boutique Vallya](README.md)
 
+## Le Serveur
+
+* [🏆Système de Prestige](le-serveur/systeme-de-prestige.md)
+* [🪩 ZONE PRESTIGE](le-serveur/zone-prestige.md)
+
 ## Zone Primordiale
 
 * [🌿Nimotopia (LvL 250)](<README (1).md>)
@@ -16,8 +21,3 @@
 * [⚔️Blessures de Guerre (LvL 3500)](zone-primordiale/blessures-de-guerre-lvl-3500.md)
 * [🏜️Désert de Misère (LvL 4000)](zone-primordiale/desert-de-misere-lvl-4000.md)
 * [🐼Pandamonium (LvL 4500)](zone-primordiale/pandamonium-lvl-4500.md)
-
-## Le Serveur
-
-* [Page 1](le-serveur/page-1.md)
-* [🏆Système de Prestige](le-serveur/systeme-de-prestige.md)
