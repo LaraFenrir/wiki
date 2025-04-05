@@ -30,10 +30,7 @@ Si vous avez effectué un achat en boutique avec des euros, voici les étapes à
 
 **💰 Avantages des Offres**
 
-| 💎 Offre     | 💰 Prix | 🎁 Bonus                                                                                           |
-| ------------ | ------- | -------------------------------------------------------------------------------------------------- |
-| **Avantagé** | **35€** | 1250 Ogrines, Boost XP +100%, Prog Item x1.75, Boost Parchemins x1.50, Daily x2, +5 Sorts PR Omega |
-| **Premium**  | **15€** | 750 Ogrines, Boost XP +50%, Drop +30%, Prog Normal, Parchemins Normaux                             |
+<table><thead><tr><th width="140">💎 Offre</th><th width="134">💰 Prix</th><th>🎁 Bonus</th></tr></thead><tbody><tr><td><strong>Avantagé</strong></td><td><strong>35€</strong></td><td>1250 Ogrines, Boost XP +100%, Prog Item x1.75, Boost Parchemins x1.50, Daily x2, +5 Sorts PR Omega</td></tr><tr><td><strong>Premium</strong></td><td><strong>15€</strong></td><td>750 Ogrines, Boost XP +50%, Drop +30%, Prog Normal, Parchemins Normaux</td></tr></tbody></table>
 
 Après validation de votre achat, les avantages seront **directement activés** sur votre compte en jeu. Profitez pleinement de votre expérience sur **Vallya** ! 🎉🔥
 
