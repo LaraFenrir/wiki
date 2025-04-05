@@ -8,6 +8,7 @@
 
 * [🏆Système de Prestige](le-serveur/systeme-de-prestige.md)
 * [🪩 ZONE PRESTIGE](le-serveur/zone-prestige.md)
+* [🌠 Rebirth](le-serveur/rebirth.md)
 
 ## Zone Primordiale
 
