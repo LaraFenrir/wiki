@@ -9,7 +9,7 @@
 * [🏆Système de Prestige](le-serveur/systeme-de-prestige.md)
 * [🪩 ZONE PRESTIGE](le-serveur/zone-prestige.md)
 * [🌠 Rebirth](le-serveur/rebirth.md)
-* [🔱Drop donjons](le-serveur/drop-donjons.md)
+* [🔱Drop donjons](zone-primordiale/drop-donjons.md)
 * [🌌Donjon Rebirth](le-serveur/donjon-rebirth.md)
 
 ## Zone Primordiale
