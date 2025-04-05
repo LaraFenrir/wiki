@@ -13,6 +13,9 @@
 * [🌌Donjon Rebirth](le-serveur/donjon-rebirth.md)
 * [🎮Les Coffres de Sort](le-serveur/les-coffres-de-sort.md)
 * [📥Contenu des Coffres de Sort](le-serveur/contenu-des-coffres-de-sort.md)
+* [🎁Bonus Journalier](le-serveur/bonus-journalier.md)
+* [⚔️Daily Fight](le-serveur/daily-fight.md)
+* [🔮Runes](le-serveur/runes.md)
 
 ## Zone Primordiale
 

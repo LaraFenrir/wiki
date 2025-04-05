@@ -40,5 +40,3 @@ C’est un système destiné aux joueurs les plus ambitieux qui souhaitent repou
 ***
 
 Avec ce système, le Prestige permet d’accéder à des **bonus puissants et exclusifs**, rendant chaque passage plus intéressant ! 🎉
-
-🏆

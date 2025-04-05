@@ -37,5 +37,3 @@ Le **Repère Brâkmarien** est un donjon redoutable qui renferme une surprise de
 ***
 
 Préparez-vous à affronter des défis de taille et à collecter les meilleures récompenses ! 🔥⚔️
-
-🌟👹

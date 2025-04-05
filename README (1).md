@@ -52,5 +52,3 @@ Pour récupérer la **Relique du Député**, nécessaire pour certaines amélior
 ***
 
 Préparez-vous pour des combats intenses et des récompenses exceptionnelles dans **Nimotopia** ! ⚔️🔥
-
-🌟🌿

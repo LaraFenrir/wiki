@@ -44,5 +44,3 @@ Le **Dofus Temporelle** est une récompense extrêmement rare que l’on peut ob
 ![](https://vallya.gitbook.io/~gitbook/image?url=https%3A%2F%2F677697625-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FTJCjQJc02Pk37oWThIix%252Fuploads%252FTMhySIEVMUBToM7oYOgj%252Fimage.png%3Falt%3Dmedia%26token%3Db868bd31-d835-40d2-8475-0d571c56964c\&width=768\&dpr=4\&quality=100\&sign=a053aa46\&sv=2)
 
 Préparez-vous à affronter des ennemis redoutables et à récolter des récompenses exceptionnelles ! 🔥⚔️
-
-🌟🏫

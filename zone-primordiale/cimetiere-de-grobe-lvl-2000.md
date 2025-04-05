@@ -37,5 +37,3 @@ Dans cette zone hantée, vous aurez l'opportunité d'affronter les esprits tourm
 ***
 
 Préparez-vous à explorer ce lieu mystique et à en ressortir plus puissant que jamais ! 🔮👻
-
-🌟⚰️

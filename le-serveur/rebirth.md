@@ -36,7 +36,3 @@ Le **Rebirth** est une épreuve réservée aux joueurs les plus expérimentés. 
 🔹 **Maximisez votre puissance** en atteignant le **Rebirth 1**. 🔹 **Planifiez votre progression** en accumulant les ressources nécessaires. 🔹 **Surmontez les obstacles** et dominez le monde des Douze.
 
 🔥 **Bonne chance dans votre ascension vers la puissance ultime !** ⚔️💪
-
-Last updated 1 month ago
-
-🌠

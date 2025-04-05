@@ -41,5 +41,3 @@ Cela vous permet de transformer des coffres basiques en coffres plus puissants, 
 ⚠️ **Limite des sorts** : Un joueur peut posséder jusqu’à **25 sorts actifs**.
 
 ***
-
-➡️ **"Vous trouverez la liste complète des sorts contenus dans chaque coffre dans la section "Contenu des Coffres de Sort"**

@@ -34,5 +34,3 @@ Dans cette zone, vous pourrez également obtenir une épée légendaire en écha
 ***
 
 Préparez-vous à affronter les dangers de **Blessures de Guerre**, et à en ressortir plus puissant que jamais ! 🔥⚔️
-
-🌟⚔️

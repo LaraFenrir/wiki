@@ -37,5 +37,3 @@ L’**Entraille de la Forêt Sombre** est un donjon redoutable dans lequel vous 
 ***
 
 Affrontez les dangers de la forêt, amassez des ressources et obtenez des récompenses exclusives ! 🌿⚔️
-
-🌟🌲

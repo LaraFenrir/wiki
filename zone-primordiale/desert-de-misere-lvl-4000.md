@@ -25,5 +25,3 @@ En échangeant certaines ressources spécifiques obtenues en battant les créatu
 ***
 
 Préparez-vous à affronter les dangers du **Désert de Misère** et à collecter ces récompenses rares ! 💥🛡️
-
-🌟🏜️

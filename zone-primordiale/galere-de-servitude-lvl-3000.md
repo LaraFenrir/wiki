@@ -44,5 +44,3 @@ Le **Défi de la Servitude** est l’épreuve ultime de la Galère de Servitude.
 ![](https://vallya.gitbook.io/~gitbook/image?url=https%3A%2F%2F677697625-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FTJCjQJc02Pk37oWThIix%252Fuploads%252FyBy1njplcyGIUoUcg1aC%252Fimage.png%3Falt%3Dmedia%26token%3Dc64bb30b-f3b9-4d34-af90-68fc9f8e849f\&width=768\&dpr=4\&quality=100\&sign=6bf8a711\&sv=2)
 
 Préparez-vous à affronter des ennemis redoutables et à prouver votre puissance ! 💪🔥
-
-🌟⚓

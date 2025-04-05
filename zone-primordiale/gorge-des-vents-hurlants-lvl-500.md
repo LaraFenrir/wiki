@@ -35,5 +35,3 @@ Le **Boyau du Père Ver** est un donjon redoutable où vous pourrez affronter de
 ***
 
 Préparez-vous à affronter des défis de taille et à collecter les meilleures récompenses ! 🔥⚔️
-
-🌟🍂

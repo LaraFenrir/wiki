@@ -37,5 +37,3 @@ Le **Dofus Béni** peut être obtenu exclusivement dans le **donjon de Kanigroul
 ***
 
 Préparez-vous pour l’un des défis les plus redoutables et armez-vous des meilleurs équipements pour progresser ! 🔥⚔️
-
-🌟🐼

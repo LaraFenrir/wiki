@@ -17,7 +17,3 @@ Préparez-vous pour des combats épiques et tentez d'obtenir les Dofus les plus 
 Pour passer **Rebirth 1**, vous devez posséder **toutes les attestations** des donjons listés ci-dessus.
 
 Pour passer **Rebirth 2**, il vous faudra **obtenir deux fois toutes les attestations** avant de pouvoir évoluer davantage !
-
-Last updated 1 month ago
-
-🌌
