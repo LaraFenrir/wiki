@@ -6,7 +6,7 @@
 
 ## Le Serveur
 
-* [Premier pas](le-serveur/premier-pas.md)
+* [🧭 Premiers Pas](le-serveur/premiers-pas.md)
 * [🎁Bonus Journalier](le-serveur/bonus-journalier.md)
 * [🎮Les Coffres de Sort](le-serveur/les-coffres-de-sort.md)
 * [📥Contenu des Coffres de Sort](le-serveur/contenu-des-coffres-de-sort.md)
@@ -44,4 +44,4 @@
 * [🌠 Rebirth](zone-rebirth/rebirth.md)
 * [🌌Donjon Rebirth](zone-rebirth/donjon-rebirth.md)
 * [Zone Rebirth](zone-rebirth/zone-rebirth.md)
-* [Dofus Rebirth](zone-rebirth/dofus-rebirth.md)
+* [🔥Dofus Rebirth](zone-rebirth/dofus-rebirth.md)
