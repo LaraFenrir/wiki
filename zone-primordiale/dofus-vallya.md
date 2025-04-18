@@ -1,4 +1,4 @@
-# Dofus Vallya
+# 🥚Dofus Vallya
 
 ## 🥚 Le Dofus Vallya
 
@@ -7,15 +7,18 @@ Il ne s’obtient pas directement : c’est un **objectif long terme**, lié à 
 
 ***
 
-### 🔄 Une progression sur le long terme
+🔄 Une progression sur le long terme\
+Ce Dofus se forge étape par étape, en fusionnant plusieurs Dofus spéciaux que tu devras obtenir tout au long de ton aventure.
 
-Ce Dofus se **forge étape par étape**, en **fusionnant plusieurs Dofus spéciaux** que tu devras obtenir tout au long de ton aventure.
+🧪 Un système unique de fusion
 
-#### 🧪 Un système unique de fusion
+* Tu dois réunir et fusionner différents Dofus
+* Chaque fusion est une étape vers le véritable Dofus Vallya
+* Cela demande des ressources, du temps, et surtout de la stratégie
 
-* Tu dois **réunir et fusionner différents Dofus**
-* Chaque fusion est une étape vers le **véritable Dofus Vallya**
-* Cela demande des **ressources**, du **temps**, et surtout de la **stratégie**
+> 📍 Où dropper les Dofus nécessaires ?\
+> Une page dédiée liste tous les donjons et zones où dropper les Dofus requis pour les fusions :\
+> 👉 [Voir la page des drops](https://app.gitbook.com/o/gUqmsnSvRNh7lF2VcOQF/s/5Y3f533rD4kDJSZTuibP/zone-primordiale/drop-donjons)
 
 ***
 
