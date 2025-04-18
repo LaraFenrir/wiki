@@ -1,7 +1,7 @@
 # 🌫️ Berceau d’Alma (LvL 17 500)
 
 \
-Le Berceau d’Alma est une zone redoutable où les ennemis frappent fort et sans relâche. Cette zone représente la dernière ligne droite avant le contenu ultra-endgame.\
+Le Berceau d’Alma est une zone redoutable où les ennemis frappent fort et sans relâche. Cette zone représente la dernière ligne droite avant le contenu qui concerne les préstiges.\
 
 
 🏆 Ressources nécessaires pour l’équipement complet\
