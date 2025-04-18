@@ -33,15 +33,15 @@ Tu y trouveras :
 
 ***
 
-### 🏰 Les Donjons Rebirth
+🏰 Les Donjons Rebirth\
+Les Dofus nécessaires à la création du Dofus Rebirth ne se trouvent que dans les donjons Rebirth.\
+Chaque donjon drop un type de Dofus spécifique.\
+Il te faudra les compléter plusieurs fois pour obtenir tous les composants nécessaires.\
+Ces donjons sont pensés pour un gameplay plus avancé, avec une difficulté adaptée à leur importance.
 
-Les Dofus nécessaires à la création du Dofus Rebirth ne se trouvent **que** dans les **donjons Rebirth**.
-
-* Chaque donjon drop un **type de Dofus spécifique**
-* Il te faudra les compléter plusieurs fois pour obtenir tous les composants nécessaires
-* Ces donjons sont pensés pour un gameplay plus avancé, avec une difficulté adaptée à leur importance
-
-> Une section dédiée dans le wiki te donne les infos complémentaires
+> &#x20;🔗 Plus d'infos ?\
+> Une section dédiée dans le wiki te donne les infos complémentaires :\
+> 👉 [Voir la page Donjon Rebirth](https://app.gitbook.com/o/gUqmsnSvRNh7lF2VcOQF/s/5Y3f533rD4kDJSZTuibP/~/changes/27/zone-rebirth/donjon-rebirth)
 
 ***
 

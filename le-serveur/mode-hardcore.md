@@ -1,4 +1,4 @@
-# Hardcoria
+# 💀 Mode Hardcore
 
 ## 💀 Mode Hardcore
 
