@@ -43,5 +43,5 @@
 
 * [🌠 Rebirth](zone-rebirth/rebirth.md)
 * [🌌Donjon Rebirth](zone-rebirth/donjon-rebirth.md)
-* [🔁 Les Rebirths](zone-rebirth/zone-rebirth.md)
+* [🔁 Les Rebirths et leurs zones](zone-rebirth/les-rebirths-et-leurs-zones.md)
 * [🔥Dofus Rebirth](zone-rebirth/dofus-rebirth.md)
