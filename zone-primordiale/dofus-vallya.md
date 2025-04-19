@@ -18,7 +18,7 @@ Ce Dofus se forge étape par étape, en fusionnant plusieurs Dofus spéciaux que
 
 > 📍 Où dropper les Dofus nécessaires ?\
 > Une page dédiée liste tous les donjons et zones où dropper les Dofus requis pour les fusions :\
-> 👉 [Voir la page des drops](https://app.gitbook.com/o/gUqmsnSvRNh7lF2VcOQF/s/5Y3f533rD4kDJSZTuibP/zone-primordiale/drop-donjons)
+> 👉 [Voir la page des drops](drop-donjons.md)
 
 ***
 
