@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 💸Boutique Vallya
 
 ### 🛒 Boutique Vallya <a href="#boutique-vallya" id="boutique-vallya"></a>
