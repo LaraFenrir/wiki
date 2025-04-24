@@ -17,6 +17,7 @@
 * [🪩 Zone Prestige](le-serveur/zone-prestige.md)
 * [🔮Runes](le-serveur/runes.md)
 * [Artefacts](le-serveur/artefacts.md)
+* [🥚 Île de Pwak](le-serveur/ile-de-pwak.md)
 
 ## Zone Primordiale
 
